@@ -1,0 +1,58 @@
+td{
+	margin:0;
+	padding:0;
+	border:1px solid black;
+	width:20px;
+	height:20px;
+	text-align: center;
+}
+
+table {
+	background-color:#ddd;
+}
+
+.hidden {
+	background-color:#ddd;
+}
+.revealed {
+	background-color:#bbb;
+}
+
+.one {
+	color:#0000ff;
+}
+
+.two {
+	color:#008000;
+}
+.three {
+	color:#ff0000;
+}
+
+.four {
+	color:#00008b;
+}
+
+.five {
+	color:#8b4513;
+}
+
+.six {
+	color:#20b2aa;
+}
+
+.seven {
+	color:#fff;
+}
+
+.eight {
+	color:#808080;
+}
+
+.flag {
+	font-weight:bold;
+}
+
+.hideThis {
+	display:none;
+}
