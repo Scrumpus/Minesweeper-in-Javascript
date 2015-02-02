@@ -1,4 +1,4 @@
-
+(function() {
 window.onload = function()
 {
 	createGame()
@@ -348,3 +348,4 @@ var createGame = function() {
 }
 
 newGame.onclick = createGame;
+}());
